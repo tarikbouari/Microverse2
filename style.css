@@ -155,7 +155,7 @@
   
   .price-box h3 {
     background-color: #ddd;
-    font-size: 8px;
+    font-size: 20px;
     padding: 10px;
   }
   
@@ -182,9 +182,7 @@
     overflow: hidden;
   }
   
-  #main-footer div a {
-    
-  }
+
   
   #fcs {
     text-decoration: underline;
